@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Online Store</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    </head>
+    <!-- ... rest of the file ... -->
+    
+<body>
+    <h1>Welcome to the Online Store</h1>
+    
+    <h2>Inventory</h2>
+    <ul>
+        {% for product_id, product in inventory.items() %}
+            <li>
+                {{ product['name'] }} - ${{ product['price'] }}
+                <form action="/add_to_cart" method="post">
+                    <input type="hidden" name="username" value="user1">
+                    <input type="hidden" name="product_id" value="{{ product_id }}">
+                    Quantity: <input type="number" name="quantity" value="1" min="1">
+                    <input type="submit" value="Add to Cart">
+                </form>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <h2>Shopping Cart</h2>
+    <ul>
+        {% if 'user1' in carts %}
+            {% for product_id, quantity in carts['user1'].items() %}
+                <li>
+                    {{ inventory[product_id]['name'] }} - Quantity: {{ quantity }}
+                </li>
+            {% endfor %}
+        {% endif %}
+    </ul>
+
+    <a href="/logout?username=user1">Logout</a>
+</body>
+</html>

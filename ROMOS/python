@@ -1,0 +1,46 @@
+import pandas as pd
+
+
+class Item:
+    def __init__(self, name, value):
+        self.name = name
+        self.value = value
+
+class Inventory:
+    def __init__(self):
+        self.items = {}
+
+    def add_item(self, item):
+        if item.name in self.items:
+            raise ValueError(f"Item '{item.name}' already exists in the inventory.")
+        self.items[item.name] = item
+
+    def remove_item(self, item_name):
+        if item_name not in self.items:
+            raise ValueError(f"Item '{item_name}' does not exist in the inventory.")
+        del self.items[item_name]
+
+    def update_item(self, item):
+        if item.name not in self.items:
+            raise ValueError(f"Item '{item.name}' does not exist in the inventory.")
+        self.items[item.name] = item
+
+    def get_item(self, item_name):
+        if item_name not in self.items:
+            raise ValueError(f"Item '{item_name}' does not exist in the inventory.")
+        return self.items[item_name]
+
+    def get_total_inventory_value(self):
+        return sum(item.value for item in self.items.values())
+
+inventory = Inventory()
+item1 = Item("apple", 5)
+item2 = Item("orange", 7)
+inventory.add_item(item1)
+inventory.add_item(item2)
+#inventory.remove_item("apple")
+#item3 = Item("banana", 10)
+#inventory.update_item(item3)
+print(inventory.get_item("orange"))
+
+print(inventory.get_total_inventory_value())

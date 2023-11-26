@@ -1,0 +1,260 @@
+ItemID,CategoryName,ItemName,SapCode,ItemShortCode,ItemShortCode1,ItemDescription,ExposeToOnline,OnlineDisplayName,IsFavorite,ItemBasePrice,ContainerCharge,Zomato,Available
+1236416702,Chaap,"Aachari Chaap (Half)",,"aachari chaap",,,Yes,"Aachari Chaap",No,120,0,140,Yes
+1236480243,Chaap,"Aachari Chaap (Full)",,"aachari chaap",,,Yes,"Aachari Chaap",No,180,0,210,Yes
+1236390644,"Romo Special Momos","Achari Momos (Veg)",Soya,41,,,Yes,"Achari Momos [8 Pieces]",No,130,0,170,Yes
+1236390645,"Romo Special Momos","Achari Momos (Soya)",Paneer,41,,,Yes,"Achari Momos [8 Pieces]",No,130,0,210,Yes
+1236390646,"Romo Special Momos","Achari Momos (Paneer)",,41,,,Yes,"Achari Momos [8 Pieces]",No,160,0,220,Yes
+1236390666,"Romo Special Starters","Achari Paneer Tikka (Mini)",Max,49,,,Yes,"Achari Paneer Tikka",No,130,0,160,Yes
+1236390667,"Romo Special Starters","Achari Paneer Tikka (Max)",,49,,,Yes,"Achari Paneer Tikka",No,220,0,240,Yes
+1236390577,"Rolls Delight","Achari Paneer Tikka Roll (Single)",Double,10,,,Yes,"Achari Paneer Tikka Roll",No,110,0,140,Yes
+1236390578,"Rolls Delight","Achari Paneer Tikka Roll (Double)",,10,,,Yes,"Achari Paneer Tikka Roll",No,130,0,170,Yes
+1236390573,"Rolls Delight","Achari Soya Roll (Single)",Double,8,,,Yes,"Achari Soya Roll",No,90,0,120,Yes
+1236390574,"Rolls Delight","Achari Soya Roll (Double)",,8,,,Yes,"Achari Soya Roll",No,120,0,160,Yes
+1236416690,Chaap,"Afgani Masala Tikka Chaap (Half)",,"afgani masala tikka",,,Yes,"Afgani Masala Tikka Chaap",No,120,0,160,Yes
+1236480314,Chaap,"Afgani Masala Tikka Chaap (Full)",,"afgani masala tikka",,,Yes,"Afgani Masala Tikka Chaap",No,180,0,240,Yes
+1236390599,"Classic Rolls","Afghani Chap Roll (Single)",Double,21,,,Yes,"Afghani Chap Roll",No,110,0,140,Yes
+1236390600,"Classic Rolls","Afghani Chap Roll (Double)",,21,,,Yes,"Afghani Chap Roll",No,130,0,170,Yes
+1236390629,"Romo Special Momos","Afghani Malai Momos (Veg)",Soya,36,,,Yes,"Afghani Malai Momos [8 Pieces]",No,130,0,150,Yes
+1236390630,"Romo Special Momos","Afghani Malai Momos (Soya)",Paneer,36,,,Yes,"Afghani Malai Momos [8 Pieces]",No,130,0,170,Yes
+1236390631,"Romo Special Momos","Afghani Malai Momos (Paneer)",,36,,,Yes,"Afghani Malai Momos [8 Pieces]",No,160,0,200,Yes
+1236499494,Beverage,"Appy Fizz",,"appy fizz",,,No,"Appy Fizz",No,10,0,10,No
+1236390543,"Indian Breads","Bambaiya Roti",,74,,,Yes,"Bambaiya Roti",No,40,0,50,Yes
+1251686994,"Meal for one","Butter Chicken[serves 1] With 2 Roti",,"butter chicken[serv",,"""Butter Chicken[Serves 1] with 2 Roti """,Yes,"Butter Chicken Combo",No,210,0,210,Yes
+1261280790,Chaap,"Butter Leg Piece Chaap (Half)",,"butter leg piece cha",,,Yes,"Butter Leg Piece Chaap",No,150,0,150,No
+1261280791,Chaap,"Butter Leg Piece Chaap (Full)",,"butter leg piece cha",,,Yes,"Butter Leg Piece Chaap",No,240,0,240,No
+1236390539,"Indian Breads","Butter Naan",,70,,,Yes,"Butter Naan",No,30,0,40,Yes
+1236390714,"Romo Special Gravy","Butter Shahi Chaap (Mini)",Max,82,,,Yes,"Butter Shahi Chaap",No,160,0,210,Yes
+1236390715,"Romo Special Gravy","Butter Shahi Chaap (Max)",,82,,,Yes,"Butter Shahi Chaap",No,250,0,320,Yes
+1261280786,Chaap,"Chaap Boti Masala (Half)",,"chaap boti masala",,,Yes,"Chaap Boti Masala",No,140,0,140,No
+1261280787,Chaap,"Chaap Boti Masala (Full)",,"chaap boti masala",,,Yes,"Chaap Boti Masala",No,240,0,240,No
+1236390718,"Romo Special Gravy","Chaap Butter Masala (Mini)",Max,84,,,Yes,"Chaap Butter Masala",No,160,0,210,Yes
+1236390719,"Romo Special Gravy","Chaap Butter Masala (Max)",,84,,,Yes,"Chaap Butter Masala",No,250,0,320,Yes
+1251699106,"Romo Special Gravy","Chaap Lababdar (Mini)",,50016,,,Yes,,No,160,0,160,Yes
+1251699107,"Romo Special Gravy","Chaap Lababdar (Max)",,50016,,,Yes,,No,250,0,250,Yes
+1236390716,"Romo Special Gravy","Changezi Chaap (Mini)",Max,83,,,Yes,"Changezi Chaap",No,160,0,210,Yes
+1236390717,"Romo Special Gravy","Changezi Chaap (Max)",,83,,,Yes,"Changezi Chaap",No,250,0,320,Yes
+1236390559,"Rolls Delight","Chatpata Aloo Chaat Roll (Single)",Double,1,,,Yes,"Chatpata Aloo Chaat Roll",No,60,0,60,Yes
+1236390560,"Rolls Delight","Chatpata Aloo Chaat Roll (Double)",,1,,,Yes,"Chatpata Aloo Chaat Roll",No,80,0,100,Yes
+1251699084,"Dragon Rolls","Chatpati Chaap Roll (Single)",,50002,,,Yes,,No,110,0,110,Yes
+1251699085,"Dragon Rolls","Chatpati Chaap Roll (Double)",,50002,,,Yes,,No,130,0,130,Yes
+1236416689,Chaap,"Chatpati Chap (Half)",,"chatpati chap",,,Yes,"Chatpati Chap",No,120,0,140,Yes
+1236480310,Chaap,"Chatpati Chap (Full)",,"chatpati chap",,,Yes,"Chatpati Chap",No,180,0,210,Yes
+1236390595,"Cheesy Rolls","Chatpati Chap Roll (Single)",Double,19,,,Yes,"Chatpati Chap Roll",No,90,0,120,Yes
+1236390596,"Cheesy Rolls","Chatpati Chap Roll (Double)",,19,,,Yes,"Chatpati Chap Roll",No,120,0,160,Yes
+1236390583,"Dragon Rolls","Chilly Garlic Soya Roll (Single)",Double,13,,,Yes,"Chilly Garlic Soya Roll",No,110,0,140,Yes
+1236390584,"Dragon Rolls","Chilly Garlic Soya Roll (Double)",,13,,,Yes,"Chilly Garlic Soya Roll",No,130,0,170,Yes
+1236390581,"Dragon Rolls","Chilly Mushroom Roll (Single)",Double,12,,,Yes,"Chilly Mushroom Roll",No,110,0,140,Yes
+1236390582,"Dragon Rolls","Chilly Mushroom Roll (Double)",,12,,,Yes,"Chilly Mushroom Roll",No,130,0,170,Yes
+1236390579,"Dragon Rolls","Chilly Paneer Roll (Single)",Double,11,,,Yes,"Chilly Paneer Roll",No,110,0,140,Yes
+1236390580,"Dragon Rolls","Chilly Paneer Roll (Double)",,11,,,Yes,"Chilly Paneer Roll",No,130,0,170,Yes
+1251699090,"Fried Momos","Corn & Paneer Fried Momos (Mini)",,50006,,,No,,No,80,0,80,No
+1251699091,"Fried Momos","Corn & Paneer Fried Momos (Max)",,50006,,,No,,No,140,0,140,Yes
+1251699088,"Romo's Steam Momos","Corn & Paneer Steam Momos (Mini)",,50005,,,No,,No,70,0,70,No
+1251699089,"Romo's Steam Momos","Corn & Paneer Steam Momos (Max)",,50005,,,No,,No,120,0,120,Yes
+1251699092,"Tandoori Momos","Corn & Paneer Tandoori Momos (Mini)",,50007,,,No,,No,90,0,90,No
+1251699093,"Tandoori Momos","Corn & Paneer Tandoori Momos (Max)",,50007,,,No,,No,150,0,150,Yes
+1236390611,"Romo Ke Momos","Corn And Cheese Momos (Mini)",Max,27,,,No,,No,60,0,60,No
+1236390612,"Romo Ke Momos","Corn And Cheese Momos (Max)",,27,,,No,,No,100,0,100,No
+1250114457,"Fried Momos","Corn And Cheese Pan Fried Momos (Mini)",,30,,,No,"Corn And Cheese Pan Fried Momos",No,70,0,70,No
+1250114458,"Fried Momos","Corn And Cheese Pan Fried Momos (Max)",,30,,,No,"Corn And Cheese Pan Fried Momos",No,120,0,120,No
+1250115471,"Tandoori Momos","Corn And Cheese Tandoori Momos (Mini)",,34,,,No,"Corn And Cheese Pan Fried Momos",No,70,0,70,No
+1250115472,"Tandoori Momos","Corn And Cheese Tandoori Momos (Max)",,34,,,No,"Corn And Cheese Pan Fried Momos",No,120,0,120,No
+1236390635,"Romo Special Momos","Crunchy Momos (Veg)",Soya,38,,,Yes,"Crunchy Momos [8 Pieces]",No,150,0,190,Yes
+1236390636,"Romo Special Momos","Crunchy Momos (Soya)",Paneer,38,,,Yes,"Crunchy Momos [8 Pieces]",No,150,0,210,Yes
+1236390637,"Romo Special Momos","Crunchy Momos (Paneer)",,38,,,Yes,"Crunchy Momos [8 Pieces]",No,180,0,240,Yes
+1251699094,"Romo Special Starters","Crunchy Paneer (Mini)",,50008,,,Yes,,No,130,0,130,Yes
+1251699095,"Romo Special Starters","Crunchy Paneer (Max)",,50008,,,Yes,,No,220,0,220,Yes
+1236416693,"Romo Special Starters","Crunchy Soya Chap (Half)",,"crunchy soya chap",,,Yes,"Crunchy Soya Chap",No,120,0,160,Yes
+1236480326,"Romo Special Starters","Crunchy Soya Chap (Full)",,"crunchy soya chap",,,Yes,"Crunchy Soya Chap",No,200,0,240,Yes
+1236390676,"Indian Gravy","Dal Makhani (Mini)",Max,54,,,Yes,"Dal Makhani",No,140,0,190,Yes
+1236390677,"Indian Gravy","Dal Makhani (Max)",,54,,,Yes,"Dal Makhani",No,200,0,260,Yes
+1251686996,"Meal for one","Dal Makhani[serves 1] With 2 Roti",,"dal makhani[serves 1",,"Dal Makhani[Serves 1] with 2 Roti",Yes,"Dal Makhani Combo",No,210,0,210,Yes
+1236390674,"Indian Gravy","Dal Tadka (Mini)",Max,53,,,Yes,"Dal Tadka",No,110,0,140,Yes
+1236390675,"Indian Gravy","Dal Tadka (Max)",,53,,,Yes,"Dal Tadka",No,180,0,210,Yes
+1236499493,Beverage,Fruity,,fruity,,,No,Fruity,No,10,0,10,No
+1236416680,Chaap,"Garlic Chaap (Half)",,"garlic chaap",,,Yes,"Garlic Chaap",No,120,0,140,Yes
+1236480283,Chaap,"Garlic Chaap (Full)",,"garlic chaap",,,Yes,"Garlic Chaap",No,180,0,210,Yes
+1236390542,"Indian Breads","Garlic Naan",,73,,,Yes,"Garlic Naan",No,50,0,60,Yes
+1236390656,"Romo Special Momos","Gravy Momos (Veg)",Soya,45,,,Yes,"Gravy Momos [8 Pieces]",No,200,0,260,Yes
+1236390657,"Romo Special Momos","Gravy Momos (Soya)",Paneer,45,,,Yes,"Gravy Momos [8 Pieces]",No,200,0,300,Yes
+1236390658,"Romo Special Momos","Gravy Momos (Paneer)",,45,,,Yes,"Gravy Momos [8 Pieces]",No,230,0,320,Yes
+1236416695,Chaap,"Hariyali Chaap (Half)",,"hariyali chaap",,,Yes,"Hariyali Chaap",No,120,0,140,Yes
+1236480336,Chaap,"Hariyali Chaap (Full)",,"hariyali chaap",,,Yes,"Hariyali Chaap",No,180,0,210,Yes
+1236390700,"Romo Special Gravy","Hariyali Gosht (Mini)",Max,75,,"[Veg preparation]",Yes,"Hariyali Gosht",No,150,0,200,Yes
+1236390701,"Romo Special Gravy","Hariyali Gosht (Max)",,75,,"[Veg preparation]",Yes,"Hariyali Gosht",No,230,0,310,Yes
+1236390668,"Romo Special Starters","Hariyali Paneer Tikka (Mini)",Max,50,,,Yes,"Hariyali Paneer Tikka",No,130,0,160,Yes
+1236390669,"Romo Special Starters","Hariyali Paneer Tikka (Max)",,50,,,Yes,"Hariyali Paneer Tikka",No,220,0,240,Yes
+1236390650,"Romo Special Momos","Haryali Momos (Veg)",Soya,43,,,Yes,"Haryali Momos [8 Pieces]",No,130,0,170,Yes
+1236390651,"Romo Special Momos","Haryali Momos (Soya)",Paneer,43,,,Yes,"Haryali Momos [8 Pieces]",No,130,0,210,Yes
+1236390652,"Romo Special Momos","Haryali Momos (Paneer)",,43,,,Yes,"Haryali Momos [8 Pieces]",No,160,0,220,Yes
+1236390722,Rice,"Jeera Rice (Mini)",Max,86,,,Yes,"Jeera Rice",No,80,0,110,Yes
+1236390723,Rice,"Jeera Rice (Max)",,86,,,Yes,"Jeera Rice",No,150,0,210,Yes
+1251699072,"Classic Rolls","Jumbo Roll",,50004,,,Yes,,No,180,0,180,Yes
+1251686995,"Meal for one","Kadai Paneer[serves 1] With 2 Roti",,"kadai paneer[serves",,"Kadai Paneer[Serves 1] with 2 Roti",Yes,"Kadai Paneer Combo",No,210,0,210,Yes
+1236390688,"Romo Special Gravy","Kadai Soya Chaap (Mini)",Max,60,,,Yes,"Kadai Soya Chaap",No,160,0,210,Yes
+1236390689,"Romo Special Gravy","Kadai Soya Chaap (Max)",,60,,,Yes,"Kadai Soya Chaap",No,220,0,300,Yes
+1236390680,"Indian Gravy","Kadhai Paneer (Mini)",Max,"kadhai paneer",,,Yes,"Kadhai Paneer",No,160,0,210,Yes
+1236390681,"Indian Gravy","Kadhai Paneer (Max)",,"kadhai paneer",,,Yes,"Kadhai Paneer",No,250,0,300,Yes
+1261280788,Chaap,"Kashmiri Chaap (Half)",,"kashmiri chaap",,,Yes,"Kashmiri Chaap",No,140,0,140,No
+1261280789,Chaap,"Kashmiri Chaap (Full)",,"kashmiri chaap",,,Yes,"Kashmiri Chaap",No,240,0,240,No
+1236390696,"Tawa Gravy","Kathi Kabab (Mini)",Max,64,,,No,,No,160,0,160,Yes
+1236390697,"Tawa Gravy","Kathi Kabab (Max)",,64,,,No,,No,280,0,280,Yes
+1236390632,"Romo Special Momos","Kurkure Momos (Veg)",Soya,37,,,Yes,"Kurkure Momos [8 Pieces]",No,150,0,170,Yes
+1236390633,"Romo Special Momos","Kurkure Momos (Soya)",Paneer,37,,,Yes,"Kurkure Momos [8 Pieces]",No,150,0,210,Yes
+1236390634,"Romo Special Momos","Kurkure Momos (Paneer)",,37,,,Yes,"Kurkure Momos [8 Pieces]",No,180,0,220,Yes
+1236390540,"Indian Breads","Lachha Paratha",,71,,,Yes,"Lachha Paratha",No,30,0,40,Yes
+1236390647,"Romo Special Momos","Lehsuni Momos (Veg)",Soya,42,,,Yes,"Lehsuni Momos [8 Pieces]",No,130,0,170,Yes
+1236390648,"Romo Special Momos","Lehsuni Momos (Soya)",Paneer,42,,,Yes,"Lehsuni Momos [8 Pieces]",No,150,0,210,Yes
+1236390649,"Romo Special Momos","Lehsuni Momos (Paneer)",,42,,,Yes,"Lehsuni Momos [8 Pieces]",No,170,0,220,Yes
+1236416688,Chaap,"Lemon Chaap (Half)",,"lemon chaap",,,Yes,"Lemon Chaap",No,120,0,160,Yes
+1236480298,Chaap,"Lemon Chaap (Full)",,"lemon chaap",,,Yes,"Lemon Chaap",No,180,0,240,Yes
+1236390653,"Romo Special Momos","Lemon Momos (Veg)",Soya,44,,,Yes,"Lemon Momos [8 Pieces]",No,130,0,170,Yes
+1236390654,"Romo Special Momos","Lemon Momos (Soya)",Paneer,44,,,Yes,"Lemon Momos [8 Pieces]",No,130,0,210,Yes
+1236390655,"Romo Special Momos","Lemon Momos (Paneer)",,44,,,Yes,"Lemon Momos [8 Pieces]",No,160,0,220,Yes
+1236416692,Chaap,"Malai Chap (Half)",,"malai chap",,,Yes,"Malai Chap",No,120,0,140,Yes
+1236480324,Chaap,"Malai Chap (Full)",,"malai chap",,,Yes,"Malai Chap",No,180,0,210,Yes
+1236390593,"Classic Rolls","Malai Chap Rol (Single)",Double,18,,,Yes,"Malai Chap Roll",No,110,0,120,Yes
+1236390594,"Classic Rolls","Malai Chap Rol (Double)",,18,,,Yes,"Malai Chap Roll",No,130,0,160,Yes
+1236390670,"Romo Special Starters","Malai Paneer Tikka (Mini)",Max,51,,,Yes,"Malai Paneer Tikka",No,130,0,190,Yes
+1236390671,"Romo Special Starters","Malai Paneer Tikka (Max)",,51,,,Yes,"Malai Paneer Tikka",No,220,0,260,Yes
+1236390638,"Romo Special Momos","Marinated Momos (Veg)",Soya,39,,,Yes,"Marinated Momos [8 Pieces]",No,140,0,200,Yes
+1236390639,"Romo Special Momos","Marinated Momos (Soya)",Paneer,39,,,Yes,"Marinated Momos [8 Pieces]",No,140,0,220,Yes
+1236390640,"Romo Special Momos","Marinated Momos (Paneer)",,39,,,Yes,"Marinated Momos [8 Pieces]",No,170,0,250,Yes
+1251699100,"Indian Gravy","Matar Mushroom (Mini)",,50011,,,Yes,,No,160,0,160,Yes
+1251699101,"Indian Gravy","Matar Mushroom (Max)",,50011,,,Yes,,No,250,0,250,Yes
+1251699098,"Indian Gravy","Matar Paneer (Mini)",,50010,,,Yes,,No,160,0,160,Yes
+1251699099,"Indian Gravy","Matar Paneer (Max)",,50010,,,Yes,,No,250,0,250,Yes
+1236390724,Rice,"Matar Pualo (Mini)",Max,87,,,Yes,"Matar Pualo",No,90,0,120,Yes
+1236390725,Rice,"Matar Pualo (Max)",,87,,,Yes,"Matar Pualo",No,160,0,210,Yes
+1236499491,Beverage,"Mineral Water",,"mineral water",,,No,"Mineral Water",No,20,0,20,No
+1236390659,"Romo Special Momos","Momos Platter (Veg)",Soya,46,,,Yes,"Momos Platter [10 Pieces]",No,200,0,260,Yes
+1236390660,"Romo Special Momos","Momos Platter (Soya)",Paneer,46,,,Yes,"Momos Platter [10 Pieces]",No,200,0,300,Yes
+1236390661,"Romo Special Momos","Momos Platter (Paneer)",,46,,,Yes,"Momos Platter [10 Pieces]",No,230,0,320,Yes
+1236416679,Chaap,"Muglai Chaap (Half)",,"muglai chaap",,,Yes,"Muglai Chaap",No,120,0,140,Yes
+1236480274,Chaap,"Muglai Chaap (Full)",,"muglai chaap",,,Yes,"Muglai Chaap",No,180,0,210,Yes
+1236390575,"Rolls Delight","Mushroom Do Pyaza Roll (Single)",Double,9,,,Yes,"Mushroom Do Pyaza Roll",No,110,0,140,Yes
+1236390576,"Rolls Delight","Mushroom Do Pyaza Roll (Double)",,9,,,Yes,"Mushroom Do Pyaza Roll",No,130,0,170,Yes
+1236390589,"Rolls Delight","Mushroom Roll (Single)",Double,16,,,Yes,"Mushroom Roll",No,90,0,120,Yes
+1236390590,"Rolls Delight","Mushroom Roll (Double)",,16,,,Yes,"Mushroom Roll",No,120,0,160,Yes
+1251699096,"Indian Gravy","Paneer Bhurji (Mini)",,50009,,,Yes,,No,140,0,140,Yes
+1251699097,"Indian Gravy","Paneer Bhurji (Max)",,50009,,,Yes,,No,220,0,220,Yes
+1236390565,"Rolls Delight","Paneer Bhurji Roll (Single)",Double,4,,,Yes,"Paneer Bhurji Roll",No,100,0,110,Yes
+1236390566,"Rolls Delight","Paneer Bhurji Roll (Double)",,4,,,Yes,"Paneer Bhurji Roll",No,120,0,150,Yes
+1236390682,"Indian Gravy","Paneer Butter Masala (Mini)",Max,57,,,Yes,"Paneer Butter Masala",No,160,0,210,Yes
+1236390683,"Indian Gravy","Paneer Butter Masala (Max)",,57,,,Yes,"Paneer Butter Masala",No,250,0,300,Yes
+1236390571,"Classic Rolls","Paneer Butter Masala Roll (Single)",Double,7,,,Yes,"Paneer Butter Masala Roll",No,110,0,120,Yes
+1236390572,"Classic Rolls","Paneer Butter Masala Roll (Double)",,7,,,Yes,"Paneer Butter Masala Roll",No,130,0,160,Yes
+1251686997,"Meal for one","Paneer Butter Masala[serves 1] With 2 Roti",,"paneer butter masala",,"Paneer Butter Masala[Serves 1] with 2 Roti",Yes,"Paneer Butter Masala Combo",No,210,0,210,Yes
+1236390678,"Indian Gravy","Paneer Do Pyaza (Mini)",Max,55,,,Yes,"Paneer Do Pyaza",No,150,0,200,Yes
+1236390679,"Indian Gravy","Paneer Do Pyaza (Max)",,55,,,Yes,"Paneer Do Pyaza",No,200,0,260,Yes
+1236390569,"Classic Rolls","Paneer Kashmiri Roll (Single)",Double,6,,,Yes,"Paneer Kashmiri Roll",No,110,0,120,Yes
+1236390570,"Classic Rolls","Paneer Kashmiri Roll (Double)",,6,,,Yes,"Paneer Kashmiri Roll",No,130,0,160,Yes
+1236390692,"Indian Gravy","Paneer Lababdar (Mini)",Max,62,,,Yes,"Paneer Lababdar",No,180,0,240,Yes
+1236390693,"Indian Gravy","Paneer Lababdar (Max)",,62,,,Yes,"Paneer Lababdar",No,260,0,320,Yes
+1236390609,"Romo Ke Momos","Paneer Momos (Mini)",Max,26,,,No,,No,60,0,60,No
+1236390610,"Romo Ke Momos","Paneer Momos (Max)",,26,,,No,,No,100,0,100,Yes
+1250114194,"Fried Momos","Paneer Pan Fried Momos (Mini)",,31,,,Yes,"Paneer Fried Momos [8 Pieces]",No,70,0,70,No
+1250114195,"Fried Momos","Paneer Pan Fried Momos (Max)",,31,,,Yes,"Paneer Fried Momos [8 Pieces]",No,120,0,160,Yes
+1236390563,"Rolls Delight","Paneer Roll (Single)",Double,3,,,Yes,"Paneer Roll",No,100,0,110,Yes
+1236390564,"Rolls Delight","Paneer Roll (Double)",,3,,,Yes,"Paneer Roll",No,120,0,150,Yes
+1250115049,"Romo's Steam Momos","Paneer Steam Momos (Mini)",,"paneer steam momos",,,Yes,"Paneer Steam Momos [8 Pieces]",No,60,0,60,No
+1250115050,"Romo's Steam Momos","Paneer Steam Momos (Max)",,"paneer steam momos",,,Yes,"Paneer Steam Momos [8 Pieces]",No,100,0,140,Yes
+1250115465,"Tandoori Momos","Paneer Tandoori Momos (Mini)",,35,,,Yes,"Paneer Tandoori Momos [8 Pieces]",No,70,0,70,No
+1250115466,"Tandoori Momos","Paneer Tandoori Momos (Max)",,35,,,Yes,"Paneer Tandoori Momos [8 Pieces]",No,120,0,160,Yes
+1251699086,"Classic Rolls","Paneer Tawa Shawarma (Single)",,50003,,,Yes,,No,120,0,120,Yes
+1251699087,"Classic Rolls","Paneer Tawa Shawarma (Double)",,50003,,,Yes,,No,160,0,160,Yes
+1236390664,"Romo Special Starters","Paneer Tikka (Mini)",Max,48,,,Yes,"Paneer Tikka",No,130,0,160,Yes
+1236390665,"Romo Special Starters","Paneer Tikka (Max)",,48,,,Yes,"Paneer Tikka",No,220,0,220,Yes
+1236390684,"Indian Gravy","Paneer Tikka Masala (Mini)",Max,58,,,Yes,"Paneer Tikka Masala",No,180,0,240,Yes
+1236390685,"Indian Gravy","Paneer Tikka Masala (Max)",,58,,,Yes,"Paneer Tikka Masala",No,260,0,330,Yes
+1236390567,"Rolls Delight","Paneer Tikka Roll (Single)",Double,5,,,Yes,"Paneer Tikka Roll",No,110,0,120,Yes
+1236390568,"Rolls Delight","Paneer Tikka Roll (Double)",,5,,,Yes,"Paneer Tikka Roll",No,130,0,160,Yes
+1251699108,Chaap,"Patiyala Chaap (Mini)",,50017,,,Yes,,No,120,0,120,Yes
+1251699109,Chaap,"Patiyala Chaap (Max)",,50017,,,Yes,,No,180,0,180,Yes
+1236390538,"Indian Breads","Plain Naan",,69,,,Yes,"Plain Naan",No,25,0,30,Yes
+1261280792,Chaap,"Punjabi Chaap (Half)",,"punjabi chaap",,,Yes,"Punjabi Chaap",No,140,0,140,No
+1261280793,Chaap,"Punjabi Chaap (Full)",,"punjabi chaap",,,Yes,"Punjabi Chaap",No,240,0,240,No
+1236390728,Rice,"Romo Special Veg Biryani (Mini)",Max,89,,,Yes,"Romo Special Veg Biryani",No,120,0,160,Yes
+1236390729,Rice,"Romo Special Veg Biryani (Max)",,89,,,Yes,"Romo Special Veg Biryani",No,200,0,260,Yes
+1246961748,"Indian Breads",Roti,,roti,,,Yes,Roti,No,15,0,15,Yes
+1236390535,"Indian Breads","Rumali Roti",,66,,,Yes,"Rumali Roti",No,10,0,15,Yes
+1236390585,"Dragon Rolls","Schezwan Paneer Rol (Single)",Double,14,,,Yes,"Schezwan Paneer Roll",No,110,0,140,Yes
+1236390586,"Dragon Rolls","Schezwan Paneer Rol (Double)",,14,,,Yes,"Schezwan Paneer Roll",No,130,0,170,Yes
+1236390587,"Dragon Rolls","Schezwan Soya Roll (Single)",Double,15,,,Yes,"Schezwan Soya Roll",No,110,0,140,Yes
+1236390588,"Dragon Rolls","Schezwan Soya Roll (Double)",,15,,,Yes,"Schezwan Soya Roll",No,130,0,170,Yes
+1236390686,"Indian Gravy","Shahi Paneer (Mini)",Max,59,,,Yes,"Shahi Paneer",No,160,0,210,Yes
+1236390687,"Indian Gravy","Shahi Paneer (Max)",,59,,,Yes,"Shahi Paneer",No,250,0,300,Yes
+1236499495,Beverage,"Soft Drink (250 ML)",,"soft drink",,,No,"Soft Drink",No,20,0,20,No
+1236499496,Beverage,"Soft Drink (750 ML)",,"soft drink",,,No,"Soft Drink",No,40,0,40,No
+1236390591,"Cheesy Rolls","Soya Chap Roll (Single)",Double,17,,,Yes,"Soya Chap Roll",No,90,0,120,Yes
+1236390592,"Cheesy Rolls","Soya Chap Roll (Double)",,17,,,Yes,"Soya Chap Roll",No,120,0,160,Yes
+1236390690,"Indian Gravy","Soya Lababdar (Mini)",Max,61,,,Yes,"Soya Lababdar",No,160,0,210,Yes
+1236390691,"Indian Gravy","Soya Lababdar (Max)",,61,,,Yes,"Soya Lababdar",No,220,0,300,Yes
+1236390607,"Romo Ke Momos","Soya Momos (Mini)",Max,25,,,No,,No,50,0,50,No
+1236390608,"Romo Ke Momos","Soya Momos (Max)",,25,,,No,,No,80,0,80,Yes
+1250114468,"Fried Momos","Soya Pan Fried Momos (Mini)",,29,,,Yes,"Soya Fried Momos [8 Pieces]",No,70,0,60,No
+1250114469,"Fried Momos","Soya Pan Fried Momos (Max)",,29,,,Yes,"Soya Fried Momos [8 Pieces]",No,120,0,150,Yes
+1250115450,"Romo's Steam Momos","Soya Steam Momos (Mini)",,"soya steam momos",,,Yes,"Soya Steam Momos [8 Pieces]",No,60,0,50,No
+1250115451,"Romo's Steam Momos","Soya Steam Momos (Max)",,"soya steam momos",,,Yes,"Soya Steam Momos [8 Pieces]",No,100,0,110,Yes
+1250115474,"Tandoori Momos","Soya Tandoori Momos (Mini)",,33,,,Yes,"Soya Tandoori Momos [8 Pieces]",No,80,0,60,No
+1250115475,"Tandoori Momos","Soya Tandoori Momos (Max)",,33,,,Yes,"Soya Tandoori Momos [8 Pieces]",No,130,0,150,Yes
+1236390720,Rice,"Steam (Mini)",Max,85,,,Yes,"Steam Rice",No,70,0,100,Yes
+1236390721,Rice,"Steam (Max)",,85,,,Yes,"Steam Rice",No,130,0,170,Yes
+1236416691,Chaap,"Stuff Malai Chaap (Half)",,"stuff malai chaap",,,Yes,"Stuff Malai Chaap",No,140,0,160,Yes
+1236480321,Chaap,"Stuff Malai Chaap (Full)",,"stuff malai chaap",,,Yes,"Stuff Malai Chaap",No,200,0,240,Yes
+1236416676,Chaap,"Stuff Masala Chaap (Half)",,"stuff masala chaap",,,Yes,"Stuff Masala Chaap",No,140,0,160,Yes
+1236480261,Chaap,"Stuff Masala Chaap (Full)",,"stuff masala chaap",,,Yes,"Stuff Masala Chaap",No,200,0,240,Yes
+1236390597,"Cheesy Rolls","Stuff Masala Chap Roll (Single)",Double,20,,,Yes,"Stuff Masala Chap Roll",No,100,0,140,Yes
+1236390598,"Cheesy Rolls","Stuff Masala Chap Roll (Double)",,20,,,Yes,"Stuff Masala Chap Roll",No,130,0,170,Yes
+1236390541,"Indian Breads","Stuff Naan",,72,,,Yes,"Stuff Naan",No,50,0,60,Yes
+1236390537,"Indian Breads","Tandoori Butter Roti",,68,,,Yes,"Tandoori Butter Roti",No,15,0,20,Yes
+1236390672,"Romo Special Starters","Tandoori Paneer Papdi (Mini)",Max,52,,,No,"Tandoori Paneer Papdi",No,140,0,190,Yes
+1236390673,"Romo Special Starters","Tandoori Paneer Papdi (Max)",,52,,,No,"Tandoori Paneer Papdi",No,200,0,260,Yes
+1236390536,"Indian Breads","Tandoori Roti",,67,,,Yes,"Tandoori Roti",No,10,0,15,Yes
+1236390694,"Tawa Gravy","Tawa Chaap (Mini)",Max,63,,,Yes,"Tawa Chaap",No,160,0,210,Yes
+1236390695,"Tawa Gravy","Tawa Chaap (Max)",,63,,,Yes,"Tawa Chaap",No,280,0,370,Yes
+1236390698,"Indian Gravy","Tawa Paneer (Mini)",Max,65,,,Yes,"Tawa Paneer",No,170,0,220,Yes
+1236390699,"Indian Gravy","Tawa Paneer (Max)",,65,,,Yes,"Tawa Paneer",No,300,0,390,Yes
+1236390641,"Romo Special Momos","Toofani Momos (Veg)",Soya,40,,,Yes,"Toofani Momos [8 Pieces]",No,140,0,210,Yes
+1236390642,"Romo Special Momos","Toofani Momos (Soya)",Paneer,40,,,Yes,"Toofani Momos [8 Pieces]",No,140,0,240,Yes
+1236390643,"Romo Special Momos","Toofani Momos (Paneer)",,40,,,Yes,"Toofani Momos [8 Pieces]",No,170,0,220,Yes
+1251699102,"Romo Special Gravy","Veg Beli Ram Chaap (Mini)",,50013,,,Yes,,No,160,0,160,Yes
+1251699103,"Romo Special Gravy","Veg Beli Ram Chaap (Max)",,50013,,,Yes,,No,250,0,250,Yes
+1236390712,"Romo Special Gravy","Veg Butter Chaap (Mini)",Max,81,,,Yes,"Veg Butter Chaap",No,160,0,210,Yes
+1236390713,"Romo Special Gravy","Veg Butter Chaap (Max)",,81,,,Yes,"Veg Butter Chaap",No,240,0,320,Yes
+1236390603,"Cheesy Rolls","Veg Chap Seekh Roll (Single)",Double,23,,,No,"Veg Chap Seekh Roll",No,100,0,140,Yes
+1236390604,"Cheesy Rolls","Veg Chap Seekh Roll (Double)",,23,,,No,"Veg Chap Seekh Roll",No,130,0,170,Yes
+1236390601,"Cheesy Rolls","Veg Chap Tikka Roll (Single)",Double,22,,,Yes,"Veg Chap Tikka Roll",No,100,0,140,Yes
+1236390602,"Cheesy Rolls","Veg Chap Tikka Roll (Double)",,22,,,Yes,"Veg Chap Tikka Roll",No,130,0,170,Yes
+1236416678,Chaap,"Veg Chiken Tikka Chaap (Half)",,"veg chiken tikka cha",,"[Veg preparation]",Yes,"Veg Chicken Tikka Chaap",No,120,0,160,Yes
+1236480271,Chaap,"Veg Chiken Tikka Chaap (Full)",,"veg chiken tikka cha",,"[Veg preparation]",Yes,"Veg Chicken Tikka Chaap",No,180,0,240,Yes
+1236416694,Chaap,"Veg Fish Chap (Half)",,"veg fish chap",,,No,"Veg Fish Chap",No,120,0,120,Yes
+1236480333,Chaap,"Veg Fish Chap (Full)",,"veg fish chap",,,No,"Veg Fish Chap",No,180,0,180,Yes
+1236390706,"Romo Special Gravy","Veg Handi Chaap (Mini)",Max,78,,"[Veg preparation]",Yes,"Veg Handi Chaap",No,160,0,200,Yes
+1236390707,"Romo Special Gravy","Veg Handi Chaap (Max)",,78,,"[Veg preparation]",Yes,"Veg Handi Chaap",No,250,0,310,Yes
+1236390704,"Romo Special Gravy","Veg Keema Mutton (Mini)",Max,77,,"[Veg preparation]",Yes,"Veg Keema Mutton",No,160,0,200,Yes
+1236390705,"Romo Special Gravy","Veg Keema Mutton (Max)",,77,,"[Veg preparation]",Yes,"Veg Keema Mutton",No,250,0,310,Yes
+1236416684,"Romo Special Starters","Veg Kfcc Lolipop (Half)",,"veg kfcc lolipop",,,Yes,"Veg KFCC Lolipop",No,120,0,160,Yes
+1236480293,"Romo Special Starters","Veg Kfcc Lolipop (Full)",,"veg kfcc lolipop",,,Yes,"Veg KFCC Lolipop",No,200,0,240,Yes
+1236390726,Rice,"Veg Pulao (Mini)",Max,88,,,Yes,"Veg Pulao",No,100,0,140,Yes
+1236390727,Rice,"Veg Pulao (Max)",,88,,,Yes,"Veg Pulao",No,180,0,230,Yes
+1236390702,"Romo Special Gravy","Veg Rada Meat (Mini)",Max,76,,"[Veg preparation]",Yes,"Veg Rada Meat",No,160,0,200,Yes
+1236390703,"Romo Special Gravy","Veg Rada Meat (Max)",,76,,"[Veg preparation]",Yes,"Veg Rada Meat",No,250,0,310,Yes
+1236390710,"Romo Special Gravy","Veg Rogan Josh (Mini)",Max,80,,"[Veg preparation]",Yes,"Veg Rogan Josh",No,160,0,210,Yes
+1236390711,"Romo Special Gravy","Veg Rogan Josh (Max)",,80,,"[Veg preparation]",Yes,"Veg Rogan Josh",No,250,0,320,Yes
+1236390662,"Romo Special Starters","Veg Seekh Kabab (Mini)",Max,47,,,No,,No,100,0,100,Yes
+1236390663,"Romo Special Starters","Veg Seekh Kabab (Max)",,47,,,No,,No,160,0,160,Yes
+1251699104,"Romo Special Gravy","Veg Tawa Chaap (Mini)",,50014,,,Yes,,No,160,0,160,Yes
+1251699105,"Romo Special Gravy","Veg Tawa Chaap (Max)",,50014,,,Yes,,No,250,0,250,Yes
+1236390561,"Rolls Delight","Vegetable Chatkara Roll (Single)",Double,2,,,Yes,"Vegetable Chatkara Roll",No,70,0,90,Yes
+1236390562,"Rolls Delight","Vegetable Chatkara Roll (Double)",,2,,,Yes,"Vegetable Chatkara Roll",No,90,0,110,Yes
+1236390708,"Romo Special Gravy","Vegetable Mutton (Mini)",Max,79,,"[Veg preparation]",Yes,"Vegetable Mutton",No,150,0,200,Yes
+1236390709,"Romo Special Gravy","Vegetable Mutton (Max)",,79,,"[Veg preparation]",Yes,"Vegetable Mutton",No,230,0,310,Yes
+1236390605,"Romo Ke Momos","Veggie Momos (Mini)",Max,24,,,No,,No,50,0,50,No
+1236390606,"Romo Ke Momos","Veggie Momos (Max)",,24,,,No,,No,80,0,80,Yes
+1250114470,"Fried Momos","Veggie Pan Fried Momos (Mini)",,28,,,Yes,"Veggie Fried Momos [8 Pieces]",No,70,0,60,No
+1250114471,"Fried Momos","Veggie Pan Fried Momos (Max)",,28,,,Yes,"Veggie Fried Momos [8 Pieces]",No,120,0,150,Yes
+1250115459,"Romo's Steam Momos","Veggie Steam Momos (Mini)",,"veggie steam momos",,,Yes,"Veggie Steam Momos [8 Pieces]",No,60,0,50,No
+1250115460,"Romo's Steam Momos","Veggie Steam Momos (Max)",,"veggie steam momos",,,Yes,"Veggie Steam Momos [8 Pieces]",No,100,0,110,Yes
+1250115478,"Tandoori Momos","Veggie Tandoori Momos (Mini)",,32,,,Yes,"Veggie Tandoori Momos [8 Pieces]",No,80,0,60,No
+1250115479,"Tandoori Momos","Veggie Tandoori Momos (Veg)",,32,,,Yes,"Veggie Tandoori Momos [8 Pieces]",No,130,0,150,Yes
